@@ -16,20 +16,10 @@ Whether you're looking to optimize your system, automate tasks, or just have som
 ## 🚀 What's New in the Revamped Version?
 
 > 💥 More organized.  
-> ⚙️ Modular by design.  
-> 🧩 Plugin support via `.upl` extensions (might add support to `.dll`, `.so` or `dylib` files too).  
-> 🎮 Game Mode for better FPS & fewer distractions.  
-> 🎨 Dark/Light mode toggle.  
+> ⚙️ Modular by design. 
 > 🔁 Auto-updater for drivers and the toolbox itself.  
-> 🧠 Intelligent `.gitignore` generator.  
-> 🔐 Password strength validator.  
-> 🔥 Mini Firewall & MSConfig Lite.  
-> 🧪 JSON validator and port checker.  
 > ⏱️ Pomodoro timer for productivity.  
-> 🖱️ Cursor theme editor with preset support.  
-> 📦 Built-in mod installer for Minecraft (Modrinth/CurseForge).  
-> 🧠 Plugin system in Python, Rust, Lua, JS, and more.
-
+> 🖱️ Cursor theme editor with preset support.
 ---
 
 ## 👦 About the Developer
@@ -52,7 +42,6 @@ I love optimizing things, solving problems, and making software that feels fun a
 
 UltiToolbox is built using a modular architecture:
 - 🔧 Core modules written in **Python (PyQt6)** for UI
-- 🪛 Plugins using `.upl` (or other mentioned before) files that expand functionality
 - 💡 Cross-platform ideas, with a focus on **Windows**
 - 📁 Organized code structure for easy expansion
 - 📡 Built-in updater + system-aware setupper
@@ -85,4 +74,4 @@ This project is made **by a dev, for devs**. Let’s build something cool togeth
 
 ---
 
-> ⚠️ This is a revamp of the original [UltiToolKit] project, now with a brand-new name, architecture, and vibe.
+> ⚠️ This is a revamp of the original [UltiToolKit](https://github.com/tutu0012/Ulti-Toolkit) project, now with a brand-new name, architecture, and vibe.
